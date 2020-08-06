@@ -7,7 +7,7 @@
 
 My name is Khaled, and i love new technologies like Node.js, ReactJS and React Native ❤
 
-- 🌱 I’m currently learning JavaScript and TypeScript (NextJs) 📘👨‍🎓
+- 🌱 I’m currently learning TypeScript (Angular) 📘👨‍🎓
 - 👯 I’m looking to collaborate on any OpenSource project to gain experience and learn as much as I can 🙏💪
 - 📫 How to reach me: to chat with me, just click on one of the icons above ☝
 - ⚡ Fun fact: i love so much programming 💖
