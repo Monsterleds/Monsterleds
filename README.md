@@ -1,6 +1,6 @@
 # Khaled Mohamad
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/khaledmk/)](https://www.linkedin.com/in/khaledmohamadkhalil/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/khaledmk/)](https://www.linkedin.com/in/khaledmk/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Email-c23208?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kha.led002@hotmail.com)](mailto:kha.led002@hotmail.com) 
 
 ## 🚀 Welcome to my profile 🚀
