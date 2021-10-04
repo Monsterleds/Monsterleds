@@ -7,7 +7,7 @@
 
 My name is Khaled, and i love new technologies like Node.js, ReactJS and React Native ❤
 
-- 🌱 I’m currently learning TypeScript (C#, ASP.NET and .NET 4.0+) 📘👨‍🎓
+- 🌱 I’m currently learning Solidity (ERC-20, BEP-20, ERC-721, BEP-721) 📘👨‍🎓
 - 👯 I’m looking to collaborate on any OpenSource project to gain experience and learn as much as I can 🙏💪
 - 📫 How to reach me: to chat with me, just click on one of the icons above ☝
 - ⚡ Fun fact: i love so much programming 💖
